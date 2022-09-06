@@ -1,1 +1,1 @@
-script that prints a smiley face
+Script to display first lines
