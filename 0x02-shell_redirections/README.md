@@ -1,1 +1,1 @@
-script that prints Hello, World
+script that displays the last lines
