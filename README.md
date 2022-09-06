@@ -1,1 +1,1 @@
-Script to display the content of etc files
+Shell I/O redirection
