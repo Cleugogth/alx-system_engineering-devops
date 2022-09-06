@@ -1,1 +1,1 @@
-script that displays the last lines
+script that prints a smiley face
