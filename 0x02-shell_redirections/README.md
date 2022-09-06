@@ -1,1 +1,1 @@
-script that prints a confused smiley face
+Shell I/O redirections
